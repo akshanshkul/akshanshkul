@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshanshkul" alt="akshanshkul" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kulshrestha_19" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kulshrestha_19" target="blank"><img src="https://img.shields.io/twitter/follow/kulshrestha_19?logo=twitter&style=for-the-badge" alt="kulshrestha_19" /></a> </p>
 
 - 🔭 I’m currently working with [Eway Corp](WWW.EWAYCORP.COM)
 
@@ -23,9 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshansh" height="30" width="40" /></a>
+<a href="https://twitter.com/kulshrestha_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulshrestha_19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshansh-770a351a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshansh-770a351a6" height="30" width="40" /></a>
 <a href="https://instagram.com/__its__don__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__its__don__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akshanshkul_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshanshkul_19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
