@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshansh</h1>
+<p align="center">
+ <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" /></p>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshanshkul&label=Profile%20views&color=0e75b6&style=flat" alt="akshanshkul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshanshkul" alt="akshanshkul" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshanshkul&theme=onedark" alt="akshanshkul" /></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/kulshrestha_19" target="blank"><img src="https://img.shields.io/twitter/follow/kulshrestha_19?logo=twitter&style=for-the-badge" alt="kulshrestha_19" /></a> </p>
