@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshanshkul&label=Profile%20views&color=0e75b6&style=flat" alt="akshanshkul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshanshkul" alt="akshanshkul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshanshkul" alt="akshanshkul" /></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/kulshrestha_19" target="blank"><img src="https://img.shields.io/twitter/follow/kulshrestha_19?logo=twitter&style=for-the-badge" alt="kulshrestha_19" /></a> </p>
 
