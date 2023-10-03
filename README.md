@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/kulshrestha_19" target="blank"><img src="https://img.shields.io/twitter/follow/kulshrestha_19?logo=twitter&style=for-the-badge" alt="kulshrestha_19" /></a> </p>
 
-- 🔭 I’m currently working with [Eway Corp](WWW.EWAYCORP.COM)
+- 🔭 I’m currently working with [Signing Tech](WWW.signingtech.in)
 
-- 🌱 I’m currently learning **Magento 2**
+- 🌱 I’m currently learning **Web Development | Magento 2**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **akshanshkul7830@gmail.com**
 
-- ⚡ Fun fact **I think i am some techiiii!**
+- ⚡ Fun fact **I think I am some techiiii!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
